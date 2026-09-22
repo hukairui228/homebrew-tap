@@ -1,6 +1,6 @@
 cask "pree-html-station" do
-  version "1.4"
-  sha256 "7951ae44f6df3ef6fdc5fdb26824e3f33793a91ac7a3af2f896010e0f6964b5e"
+  version "1.5"
+  sha256 "e9f471de97c55426504a22f3dbf2a035f462ec08670e55c0851b6bcf76b7b59d"
 
   url "https://github.com/hukairui228/pree-html-station/releases/download/v#{version}/PreeHTMLStation-macOS.zip"
   name "Pree HTML Station"
